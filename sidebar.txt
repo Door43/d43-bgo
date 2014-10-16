@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bgo:home|Door43 (bgo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bgo|d43-bgo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bgo/archive/master.zip|d43-bgo.zip]]
+
+**Recent Changes**
+{{changes>ns = bgo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bgo|Ethnologue data]]
+
